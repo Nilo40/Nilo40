@@ -25,8 +25,8 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 
 ### 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — UNIP (em andamento)
-- Local: São José dos Campos - SP
+- **Análise e Desenvolvimento de Sistemas** — UNIP (em andamento)  
+  Local: São José dos Campos - SP
 
 ---
 
@@ -34,6 +34,15 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-alves-5742ab235/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/nilo.alvesz)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniloalves&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalves&layout=compact&langs_count=7&theme=default"/>
+</div>
 
 ---
 
