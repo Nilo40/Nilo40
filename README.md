@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEeu6v2BFKM0Vl/giphy.gif" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F01F5&height=120&section=header"/>
 </p>
 
 <p align="center">
@@ -24,20 +24,20 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 
 ### 💻 Tecnologias principais
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0D47A1&color=1565C0)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=5E4096&color=6E50A1)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=C5360E&color=D84716)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white&labelColor=003D72&color=004E8C)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=B77200&color=D18B00)
 
 ### 🧰 Outras tecnologias e ferramentas
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0E4A81&color=1163B0)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=D9C200&color=E9D200)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2A5C88&color=316EA8)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white&labelColor=002D44&color=003A57)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=C43B27&color=D8432F)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0F0F0F&color=1B1B1B)
 
 ---
 
@@ -55,24 +55,15 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniloalves&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalves&layout=compact&langs_count=7&theme=default"/>
-</div>
-
----
-
 ### ⚽ Curiosidades
 
 Fora da tecnologia, sou apaixonado por **esportes**, tanto acompanhando quanto praticando. Acredito no equilíbrio entre mente ativa e corpo saudável.
 
 ---
 
-### 🐍 Snake Game - Contribuições animadas
-
-![snake gif](https://github.com/daniloalves/daniloalves/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F01F5&height=120&section=footer"/>
+</p>
 
 ---
 
