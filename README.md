@@ -1,7 +1,17 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=24&center=true&vCenter=true&width=500&lines=Olá,+sou+Danilo+Alves;Desenvolvedor+Full+Stack;Seja+bem-vindo+👋" />
+</p>
+
+---
+
 <h1 align="center">Olá, eu sou o Danilo Alves 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack.
+  Desenvolvedor Full Stack com paixão por tecnologia e esportes.
 </p>
 
 ---
@@ -16,15 +26,11 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 
 ### 💻 Tecnologias principais
 
-<div style="display: flex; gap: 10px;">
-  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-</div>
 
 ### 🧰 Outras tecnologias e ferramentas
 
@@ -63,6 +69,12 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 ### ⚽ Curiosidades
 
 Fora da tecnologia, sou apaixonado por **esportes**, tanto acompanhando quanto praticando. Acredito no equilíbrio entre mente ativa e corpo saudável.
+
+---
+
+### 🐍 Snake Game - Contribuições animadas
+
+![snake gif](https://github.com/daniloalves/daniloalves/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
