@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/TilQDD5hTwT8M/giphy.gif](https://pixabay.com/gifs/frequency-waveform-spectrum-wave-17301/)" alt="Flowing lights animation" width="600"/>
+  <img frequency-17301_256.gif alt="Flowing lights animation" width="600"/>
 </p>
 
 <p align="center">
