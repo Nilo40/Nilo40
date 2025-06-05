@@ -62,7 +62,7 @@ Fora da tecnologia, sou apaixonado por **esportes**, tanto acompanhando quanto p
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F01F5&height=120&section=footer"/>
+  <img src="frequency-17256_256.gif"/>
 </p>
 
 ---
