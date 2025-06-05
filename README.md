@@ -62,7 +62,7 @@ Fora da tecnologia, sou apaixonado por **esportes**, tanto acompanhando quanto p
 ---
 
 <p align="center">
-  <img src="frequency-17256_256.gif"/>
+  <img src="frequency-17256_256.gif" alt="Equalizer animation" width="900" height="100"/>
 </p>
 
 ---
