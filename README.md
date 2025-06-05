@@ -1,5 +1,5 @@
 <p align="center">
-  <img src"frequency-17301_256.gif alt="Flowing" lights animation" width="600"/>
+  <img src"frequency-17301_256.gif">
 </p>
 
 <p align="center">
