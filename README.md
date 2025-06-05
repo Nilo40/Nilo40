@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frequency-17301_256.gif" alt="Equalizer animation" width="900" height="100"/>
+  <img src="frequency-17256_256.gif" alt="Equalizer animation" width="900" height="100"/>
 </p>
 
 <p align="center">
