@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: daniloalves
+          github_user_name: Nilo40
           outputs: |
             ./dist/github-contribution-grid-snake.svg
       - name: Commit and Push
