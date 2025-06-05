@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=24&center=true&vCenter=true&width=500&lines=Olá,+sou+Danilo+Alves;Desenvolvedor+Full+Stack;Seja+bem-vindo+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=24&center=true&vCenter=true&width=500&lines=Olá,+sou+Danilo+Alves;Desenvolvedor+Full+Stack;Seja+bem-vindo+👋" />
 </p>
 
 ---
-
-<h1 align="center">Olá, eu sou o Danilo Alves 👨‍💻</h1>
 
 <p align="center">
   Desenvolvedor Full Stack com paixão por tecnologia e esportes.
