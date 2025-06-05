@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Equalizer animation" width="600"/>
+  <img src="https://media.giphy.com/media/TilQDD5hTwT8M/giphy.gif" alt="Flowing lights animation" width="600"/>
 </p>
 
 <p align="center">
