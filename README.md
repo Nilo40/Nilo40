@@ -43,7 +43,7 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades t
 
 ### 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — UNIP (em andamento)  
+- **Análise e Desenvolvimento de Sistemas** — UNIP (concluido)  
   Local: São José dos Campos - SP
 
 ---
